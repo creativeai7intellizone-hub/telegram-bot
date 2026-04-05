@@ -1,2 +1,6 @@
+openai
+requests
+pydub
+ffmpeg-python
 python-telegram-bot==20.3openai==1.0.0requests==2.31.0pytz==2023.3gTTS==2.3.1python-telegram-bot==20.7openairequestspydubffmpeg-python
 0 commit commentsComments0 (0)Lock conversation
